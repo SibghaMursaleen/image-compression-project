@@ -27,8 +27,3 @@ This project implements and compares two image compression techniques — JPEG (
 - Multi-level Haar Wavelet Decomposition
 - Thresholding for compression
 - Inverse Haar for reconstruction
-
----
-
-## 📂 Folder Structure
-
